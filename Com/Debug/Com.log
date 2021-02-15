@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Com.cpp
+  ComDlg.cpp
+D:\codetest\SerialPortMonitor\Com\ComDlg.cpp(456,22): warning C4101: 'e': unreferenced local variable
+D:\codetest\SerialPortMonitor\Com\ComDlg.cpp(541,26): warning C4244: 'argument': conversion from 'long' to 'BYTE', possible loss of data
+D:\codetest\SerialPortMonitor\Com\ComDlg.cpp(586,22): warning C4101: 'e': unreferenced local variable
+D:\codetest\SerialPortMonitor\Com\ComDlg.cpp(669,23): warning C4101: 'e': unreferenced local variable
+  mscomm.cpp
+  Generating Code...
+  Com.vcxproj -> D:\codetest\SerialPortMonitor\Debug\Com.exe
